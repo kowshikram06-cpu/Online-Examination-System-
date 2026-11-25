@@ -1,7 +1,7 @@
 # Online-Examination-System
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225230143
+# Name:Kowshik Ram S
+# Date:05/09/2026
 
 
 # AIM:
@@ -38,6 +38,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
+<img width="802" height="760" alt="646488748-02a03728-b5b7-4463-8fb8-971c9d1d50d4" src="https://github.com/user-attachments/assets/351000c8-9bc8-4b60-bec3-68a7e1a7bb0b" />
 
 
 
@@ -57,6 +58,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="797" height="592" alt="646488913-2813ad81-6931-487d-838d-8d04b31a90b7" src="https://github.com/user-attachments/assets/2779cf8d-d073-4f9b-94b6-7080d4a5c20c" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -65,6 +67,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="895" height="757" alt="646489091-c293c52c-f196-4801-9136-1f563eef243f" src="https://github.com/user-attachments/assets/06cca330-cba1-437c-8e39-5e2a7b5b1cb8" />
 
 
 
@@ -77,6 +80,7 @@ organization of the layered architecture within any UML classifier, such as a so
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
 
+<img width="1554" height="1012" alt="646489264-03b17d78-07a6-48ec-961b-3b3a7e6d3f17" src="https://github.com/user-attachments/assets/fede7626-6dce-4580-b288-aa724f98bedb" />
 
 
 
@@ -96,6 +100,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="561" height="1062" alt="646489493-4f96b102-3975-40b4-a77c-997219271e79" src="https://github.com/user-attachments/assets/3c50e6e8-6510-4ff9-a767-d901981fce02" />
 
 
 
@@ -118,6 +123,7 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 
 
+<img width="1018" height="796" alt="646489703-5cc69322-561e-40b9-b37c-a78048b10e7c" src="https://github.com/user-attachments/assets/f1278cfc-061c-4c9d-8a6f-d241aee34245" />
 
 
 
