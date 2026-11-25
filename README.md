@@ -1,6 +1,6 @@
 # Online-Examination-System
 # Reg No:212225230143
-# Name:Ajay Kowshik Ram S
+# Name:Kowshik Ram S
 # Date:25-11-2026
 
 
